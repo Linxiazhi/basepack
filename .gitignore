@@ -1,0 +1,8 @@
+venv/
+.idea/
+migrations/
+*.pyc
+*.iml
+*.gz
+.DS_Store
+
